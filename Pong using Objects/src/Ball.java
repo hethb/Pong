@@ -14,6 +14,7 @@ import java.awt.Graphics;
  * 
  * What are attributes/properties/instance variables?
  * 
+ * Test
  */
 public class Ball { //class Header
 	
